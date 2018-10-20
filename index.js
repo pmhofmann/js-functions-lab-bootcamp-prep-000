@@ -1,2 +1,2 @@
 // write your code below!
-function happyHolidays(){return ("HappyHolidays!")}
+function happyHolidays(){return ("Happy Holidays!")}
